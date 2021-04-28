@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 
 
 #Create a new directory and set it as the place to look for images we want to analyze
-#!mkdir /images
+!mkdir /images
 image_dir = "/images"
 
 #Create a list of all the image paths that are found in our image directory
